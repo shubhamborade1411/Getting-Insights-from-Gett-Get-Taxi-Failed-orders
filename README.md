@@ -38,7 +38,6 @@ an assigned driver than without, for each hour without exception.
  The peak occurs at 3 A.M. At this time there are a lot of client
   cancellations, so a logical explanation would be that clients
    have waited too long for the driver.
-- 
 ## Support
 
 For support, email shubhamborade19142000@gmail.com.
